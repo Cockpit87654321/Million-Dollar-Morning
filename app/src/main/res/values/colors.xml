@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#12172B</color>
+    <color name="panel">#1F2748</color>
+    <color name="dawn">#F2A65A</color>
+    <color name="dawn2">#E8735B</color>
+    <color name="text">#F3EFE6</color>
+    <color name="muted">#8891B5</color>
+    <color name="sage">#92B48C</color>
+</resources>
